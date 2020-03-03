@@ -1,0 +1,22 @@
+Support Vector Classification
+
+Support Vector Classification(SVC) is a supervised learning algorithm used for classification. It is widely popular for its performance and efficiency in Machine Learning and is a class of Support Vector Machines. Support Vector Classifiers are linear as well as non-probabilistic. SVM also supports the kernel method called kernel SVM which allows us to tackle non-linearity.
+
+Support Vector Machines
+Understanding The Basics Of SVM With Example And Python Implementation
+In this practise session, we will learn to code SVM Classifier. We will perform the following steps to build a simple classifier using the popular Iris dataset. You can find the dataset here.
+
+Step 1. Data Preprocessing 
+
+Importing the libraries.
+Importing dataset (Dataset Link https://archive.ics.uci.edu/ml/datasets/iris).
+Dealing with the categorical variable.
+Classifying dependent and independent variables.
+Splitting the data into a training set and test set.
+Feature scaling.
+Step 2. SVM Classification 
+
+Create a Support Vector classifier.
+Feed the training data to the classifier.
+Predicting the species for the test set.
+Using the confusion matrix to find accuracy.
